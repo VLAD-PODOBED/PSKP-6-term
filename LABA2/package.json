@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mssql": "^10.0.2",
+    "sequelize": "^6.36.0",
+    "tedious": "^15.1.2"
+  }
+}
